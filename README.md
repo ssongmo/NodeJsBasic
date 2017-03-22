@@ -15,7 +15,7 @@ node.js 기반의 웹서버를 구축하기 위한 설치, 기초문법, 기본�
 
 [server_post](https://github.com/ssongmo/NodeJsBasic/blob/master/nodejs_server_post.md)
 
-[server_module](https://github.com/ssongmo/NodeJsBasic/blob/master/nodejs_server_module.md)
+[server_module](https://github.com/ssongmo/NodeJsBasic/blob/master/nodejs_module.md)
 
 [server_events](https://github.com/ssongmo/NodeJsBasic/blob/master/nodejs_server_events.md)
 
